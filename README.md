@@ -5,49 +5,44 @@
 
 
 Step 1: Parts and Tools
-Parts and Tools
-Parts and Tools
-Parts and Tools
-Parts and Tools
-View 9 more
 The following parts and tools are required for building this project:
 
 Parts:
 
-2x 100rpm Geared motors
-2x Wheels for motors
-2x 75rpm Plastic geared motors w/ wheels
-1x Arduino UNO
-1x HC-05/06 bluetooth module
-1x L293D motor driver board
-1x Standard servo motor (180 degree rotation)
-1x 12V Sealed lead acid rechargeable battery
-1x 12V Water pump
-2x TIP31C/TIP122 NPN power transistors
-2x Old CDs
-A paint roller w/ shaft
-Wiping cloth/ napkin/ old rags
-A needle and thread
-Vinyl tubing
-Rainbow wire
-Male-male/ female-female/ male-female jumper wires
-Male/female headers
-Perforated board
-Nuts and Screws
-Plywood base
-Paint roller w/ shaft
-A 600ml plastic bottle
+-2x 100rpm Geared motors
+-2x Wheels for motors
+-2x 75rpm Plastic geared motors w/ wheels
+-1x Arduino UNO
+-1x HC-05/06 bluetooth module
+-1x L293D motor driver board
+-1x Standard servo motor (180 degree rotation)
+-1x 12V Sealed lead acid rechargeable battery
+-1x 12V Water pump
+-2x TIP31C/TIP122 NPN power transistors
+-2x Old CDs
+-A paint roller w/ shaft
+-Wiping cloth/ napkin/ old rags
+-A needle and thread
+-Vinyl tubing
+-Rainbow wire
+-Male-male/ female-female/ male-female jumper wires
+-Male/female headers
+-Perforated board
+-Nuts and Screws
+-Plywood base
+-Paint roller w/ shaft
+-A 600ml plastic bottle
 Tools:
 
-Soldering iron w/ solder
-Hot glue gun w/ glue sticks
-Drill
-Rotatory tool
-Pliers
-Wire cutter/stripper
-Paper cutter
-Tape
-Safety equipment while working (Important!)
+-Soldering iron w/ solder
+-Hot glue gun w/ glue sticks
+-Drill
+-Rotatory tool
+-Pliers
+-Wire cutter/stripper
+-Paper cutter
+-Tape
+-Safety equipment while working (Important!)
 
 
 Total cost of the parts: $30 approx. (2000 rupees)
